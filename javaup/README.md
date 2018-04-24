@@ -2,7 +2,7 @@
 
 ## Presentación
 
-Presentación utilizada en la confrencia
+Presentación utilizada en la charla
 
 JavaEnElDesktop_TitoSanchez.pdf
 
