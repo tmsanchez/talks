@@ -1,6 +1,6 @@
 # Onboarding tips to help new team developers to grow
 
-File list
+## File list
 
 Talk slides
 
